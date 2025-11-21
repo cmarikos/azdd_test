@@ -1,9 +1,8 @@
-# **Looker Dashboard**
-(https://lookerstudio.google.com/embed/reporting/0ad69d64-f543-4263-9770-f3fd7497e24f/page/qlCgF)
+
 
 ## **Overview**
 
-I cleaned voter demographic datasets locally using Pandas and then loaded the processed tables into BigQuery using BigQuery’s native Jupyter notebooks. These cleaned tables feed into this [Looker Dashboard](https://lookerstudio.google.com/s/nVIQdVs0Um4).
+I cleaned voter demographic datasets locally using Pandas and then loaded the processed tables into BigQuery using BigQuery’s native Jupyter notebooks. These cleaned tables feed into this [Looker Dashboard]([https://lookerstudio.google.com/s/nVIQdVs0Um4](https://cmarikos.github.io/azdd_test/)).
 
 ---
 
