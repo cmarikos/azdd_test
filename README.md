@@ -1,5 +1,5 @@
 # **Looker Dashboard**
-<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/0ad69d64-f543-4263-9770-f3fd7497e24f/page/qlCgF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+(https://lookerstudio.google.com/embed/reporting/0ad69d64-f543-4263-9770-f3fd7497e24f/page/qlCgF)
 
 ## **Overview**
 
